@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+* 获取主要城市天气预报
+* 获取汇率（香港 to 人民币)
+* 集成JPush推送
+
+![App shotcut](images/app.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
